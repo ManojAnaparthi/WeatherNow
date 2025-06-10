@@ -33,3 +33,10 @@
 - `geocoding`
 - `http`
 - `get`
+
+## Student Details
+
+- Name: A. V. S. Manoj
+- Roll no: 23110025
+- College: IIT Gandhinagar
+- Discipline: CSE
