@@ -1,16 +1,35 @@
-# weather_now
+# WeatherNow 🌦️
 
-A new Flutter project.
+**WeatherNow** is a Flutter application that displays current weather information for cities around the world. You can search by city name, choose from a list of major cities, or use your current location to get weather details.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔍 Search weather by typing city name
+- 📍 Detect your location and show weather
+- 🌆 Quick access to major cities
+- 📱 Modern and responsive UI
+- 🧭 Geolocation and geocoding integration
 
-A few resources to get you started if this is your first Flutter project:
+## 📷 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Image 2025-06-10 at 17 55 33_7dbd9dbc](https://github.com/user-attachments/assets/64fade4f-7120-4ff8-9c5f-3a07b353f91d)
+![WhatsApp Image 2025-06-10 at 17 55 33_f954f6ef](https://github.com/user-attachments/assets/2a4da7f9-d4b4-46fd-a0f5-c562dc50a9b4)
+![WhatsApp Image 2025-06-10 at 17 55 33_c4807e65](https://github.com/user-attachments/assets/3823a7fa-bf64-40b7-8473-eee8c4b7d2cd)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **OpenWeatherMap API**
+- **Geolocator** for location detection
+- **Geocoding** for city name resolution
+
+## 📦 Packages Used
+
+- `geolocator`
+- `geocoding`
+- `http`
+- `get`
